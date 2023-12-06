@@ -1,0 +1,15 @@
+.mainbtn{
+    width: 300px;
+    height: 200px;
+    border:1px solid steelblue;
+    background-color:blueviolet;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+.container .btn {
+width: 300px;
+height: 300px;
+border:1px solid steelblue;
+background-color: steelblue;
+}
